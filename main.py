@@ -27,7 +27,7 @@ import requests
 url = "https://jsonplaceholder.typicode.com/users"
 data = {
     'id':11,
-    "name": "Dev",
+    "name": "Devansh",
     "email": "dev@example.com"
 }
 
